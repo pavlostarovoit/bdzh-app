@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#000000"/>
+  <!-- Rocket body -->
+  <path d="M256 80 C256 80 200 160 200 280 L312 280 C312 160 256 80 256 80Z" fill="#e0e0e0"/>
+  <!-- Nose cone -->
+  <path d="M256 60 C240 100 200 160 200 160 L312 160 C312 160 272 100 256 60Z" fill="#c13211"/>
+  <!-- Fins -->
+  <path d="M200 260 L160 320 L200 300 Z" fill="#c13211"/>
+  <path d="M312 260 L352 320 L312 300 Z" fill="#c13211"/>
+  <!-- Engine nozzle -->
+  <path d="M220 280 L220 310 L292 310 L292 280 Z" fill="#888"/>
+  <!-- Flame -->
+  <path d="M240 310 C240 310 230 360 256 380 C282 360 272 310 272 310 Z" fill="#ff6b00"/>
+  <path d="M248 310 C248 310 244 350 256 365 C268 350 264 310 264 310 Z" fill="#ffcc00"/>
+</svg>
