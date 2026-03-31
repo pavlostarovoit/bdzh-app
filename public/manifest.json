@@ -1,6 +1,6 @@
 {
-  "name": "Rocket Engine Thrust Monitor",
-  "short_name": "Thrust Monitor",
+  "name": "BDZH App",
+  "short_name": "BDZH App",
   "description": "Monitor and control rocket engine thrust measurement stand",
   "start_url": "/bdzh-app/",
   "scope": "/bdzh-app/",
